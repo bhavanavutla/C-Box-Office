@@ -1,4 +1,4 @@
-/*This content is created by Bhavya Sri Yarlagadda,Bhavana Vutla,Keerthana Muddana*/
+/*This content is created by Bhavana Vutla,Keerthana Muddana,Bhavya Sri Yarlagadda*/
 
 // Including the required libraries
 #include <stdio.h>
